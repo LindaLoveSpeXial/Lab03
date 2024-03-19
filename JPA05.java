@@ -10,7 +10,7 @@ public class JPA05 {
                 for(int n=1;n<=b;n++){
                     c*=n;    
                 }
-            System.out.println(c);    
+            System.out.println(b+"!="+c);    
             }else{
                 System.out.println("Error,the value is out of range.");
             }
